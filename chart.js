@@ -22,7 +22,7 @@ var drawChart = function () {
 
   var options = {
     chart: {
-      title: 'Cost of Human vs Bruteforce Algorithm Scheduling of Gardener Routes',
+      title: 'Cost of Total Driving Time in Human vs Bruteforce Algorithm Scheduling of Gardener Routes',
       subtitle: 'Based on hours per week'
     },
     // series: {
